@@ -1,7 +1,5 @@
 # Geometric Transformations Using OpenCV
 
----
-
 ## Aim
 
 To write a Python program using OpenCV to perform various geometric transformations on an image.
@@ -14,7 +12,6 @@ The program performs the following operations:
 - Image Reflection (Flipping)  
 - Image Rotation  
 
----
 
 ##  Software Used
 
@@ -23,8 +20,6 @@ The program performs the following operations:
 - OpenCV (`cv2`)  
 - NumPy  
 - Matplotlib  
-
----
 
 ##  Algorithm
 
@@ -75,7 +70,6 @@ Read the input image in color mode.
 ### Developed By:
 ### Register No:212224240136
 ### Name: Rithika R
-
 
 import cv2
 import numpy as np
